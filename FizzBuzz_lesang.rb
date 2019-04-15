@@ -1,4 +1,4 @@
-for i in 1..30
+for i in 30..200
 
     if i%15==0
     elsif i%3==0
